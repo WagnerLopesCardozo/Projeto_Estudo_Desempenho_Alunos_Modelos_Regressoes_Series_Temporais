@@ -1,0 +1,2 @@
+# Projeto_Estudo_Desempenho_Alunos_Modelos_Regressoes_Series_Temporais
+Este repositório tem por objetivo estudar a implementação de algoritmos de Modelos de Regressões Linear, Linear Multipla, Polinomial e Logística, bem como também Modelos de Séries Temporais, e todas as medidas/métricas de desempenho dos modelos, para analisar o desempenho de alunos e, com aplicação fianal para novos alunos que não estão no dataset
